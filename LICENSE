@@ -1,90 +1,74 @@
-CU-GIRH Reference — Oneiros Academy
-Copyright (c) 2026 Instituto Ciberinteligencia / Oneiros Academy
+Copyright (c) 2026 Instituto Ciberinteligencia
+Licensed under the Academic Free License version 3.0
 
-Este repositorio combina material de dos titulares distintos, con licencias
-distintas. Lea ambas secciones antes de reutilizar cualquier parte.
+Academic Free License ("AFL") v. 3.0
 
-================================================================
-1. MATERIAL DE INTEL 471 (taxonomía CU-GIRH)
-================================================================
+This Academic Free License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
 
-La taxonomía Cyber Underground General Intelligence Requirements (CU-GIRH),
-sus códigos, títulos, definiciones y Elementos Esenciales de Información (EEIs)
-son obra de:
+> Licensed under the Academic Free License version 3.0
 
-  Intel 471, Inc.
-  Cyber Underground General Intelligence Requirements Handbook (CU-GIRH), v7.0
-  https://www.intel471.com/cyber-underground-handbook
+1. Grant of Copyright License.
 
-Dicha obra se publica bajo licencia Creative Commons
-Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0):
+Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license to do the following:
 
-  https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+- a. to reproduce the Original Work in copies;
+- b. to prepare derivative works ("Derivative Works") of the Original Work;
+- c. to distribute copies of the Original Work and Derivative Works to the public;
+- d. to perform the Original Work publicly; and
+- e. to display the Original Work publicly.
 
-ALCANCE DE LA CLÁUSULA "SIN DERIVADAS" (ND)
+2. Grant of Patent License.
 
-La licencia CC BY-NC-ND permite copiar y redistribuir la obra sin modificar,
-con atribución y sin fines comerciales, pero NO permite distribuir material
-derivado: versiones modificadas, traducidas, reordenadas o reestructuradas.
+Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, to make, use, sell and offer for sale the Original Work and Derivative Works.
 
-Por esa razón, este repositorio:
+3. Grant of Source Code License.
 
-  • NO reproduce las definiciones ni los Elementos Esenciales de Información
-    (EEIs) del handbook. Se citan por número de página.
-  • NO traduce ni reformula el contenido autoral del handbook.
-  • NO redistribuye el PDF. Enlaza a la fuente oficial de descarga.
-  • Incluye únicamente un índice de códigos y títulos, con finalidad de
-    navegación, referencia e interoperabilidad de etiquetado.
+The term "Source Code" means the preferred form of the Original Work for making modifications to it and all available documentation describing how to modify the Original Work. Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes. Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the Source Code in an information repository reasonably calculated to permit inexpensive and convenient access by You for as long as Licensor continues to distribute the Original Work.
 
-Quien necesite el contenido completo del CU-GIRH debe obtenerlo directamente
-de Intel 471 en el enlace indicado arriba.
+4. Exclusions From License Grant.
 
-Este repositorio no está afiliado a Intel 471, Inc., ni patrocinado ni
-respaldado por dicha empresa. Las marcas y nombres comerciales mencionados
-pertenecen a sus respectivos titulares.
+Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor. Nothing in this License shall be deemed to grant any rights to trademarks, copyrights, patents, trade secrets or any other intellectual property of Licensor except as expressly stated herein. No patent license is granted to make, use, sell, or offer to sell embodiments of any patent claims other than those embodied in the Original Work as furnished by Licensor. No right is granted to the trademarks of Licensor even if such marks are included in the Original Work, except as expressly provided in this License. Nothing in this License shall be interpreted to prohibit Licensor from licensing under different terms from this License any Original Work that Licensor otherwise would have a right to license.
 
-================================================================
-2. MATERIAL PROPIO (Oneiros Academy)
-================================================================
+5. Attribution Rights.
 
-Las notas de uso en Dirección de Inteligencia, la guía de conversión de GIR a
-PIR y EEI, los textos explicativos en español y la organización editorial de
-este repositorio son obra de Oneiros Academy / Instituto Ciberinteligencia, y
-se distribuyen bajo licencia Creative Commons
-Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent, author, and attribution notices from the Source Code of the Original Work, as well as any notices of license terms, lack of warranty, or limitation of liability. You must cause the Source Code for any Derivative Works that you create to carry a prominent notice stating that you changed the Original Work and the date of any change.
 
-Usted es libre de:
+6. Warranty Disclaimer.
 
-  • Compartir — copiar y redistribuir el material en cualquier medio o formato.
-  • Adaptar — remezclar, transformar y construir a partir del material.
+THIS ORIGINAL WORK IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTY OF NON-INFRINGEMENT AND THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY OF THE ORIGINAL WORK IS WITH YOU. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO LICENSE TO ORIGINAL WORK IS GRANTED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
 
-Bajo los siguientes términos:
+7. Limitation of Liability.
 
-  • Atribución (BY) — Debe dar crédito de manera adecuada, indicando a
-    Oneiros Academy / Instituto Ciberinteligencia como autores, brindar un
-    enlace a la licencia e indicar si se han realizado cambios.
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE LICENSOR BE LIABLE TO ANY PERSON FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENSE OR THE USE OF THE ORIGINAL WORK INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES.
 
-  • NoComercial (NC) — No puede utilizar el material con fines comerciales.
+8. Acceptance and Termination.
 
-  • Sin restricciones adicionales — No puede aplicar términos legales ni
-    medidas tecnológicas que restrinjan legalmente a otros hacer cualquier
-    uso permitido por la licencia.
+If You distribute copies of the Original Work or a Derivative Work, You must make a reasonable effort under the circumstances to obtain the explicit acceptance of this License by the recipient. You may not offer or impose any terms on the Original Work that restrict the terms of this License or the recipients' exercise of rights under this License. If recipients of the Original Work do not accept the terms of this License, they may not use, copy, modify, or distribute the Original Work.
 
-Texto legal completo:
-  https://creativecommons.org/licenses/by-nc/4.0/legalcode.es
+This License conditions your rights to undertake the activities listed in Section 1, including your right to create Derivative Works based upon the Original Work, and doing so without accepting the terms of this License is prohibited by copyright law and international treaty. If You commence an action for patent infringement against Licensor (including a cross-claim or counterclaim in a lawsuit) alleging that the Original Work directly or indirectly infringes any patent, then any rights granted to You by this License shall terminate as of the date such action is filed.
 
-Resumen legible para personas:
-  https://creativecommons.org/licenses/by-nc/4.0/deed.es
+9. Termination for Non-Compliance.
 
-================================================================
-3. FINALIDAD
-================================================================
+If you engage in any activity prohibited by this License, ("Non-Compliant Activity"), including but not limited to attempting to restrict licensees or using the names covered by Section 4 without permission, your rights under this License (including the patent license granted by Section 2) will terminate automatically as of the date you begin the Non-Compliant Activity. However, if you cease all Non-Compliant Activity and come into full compliance with this License within 30 days after becoming aware of such activity, your license will be reinstated. Nevertheless, if you engage in Non-Compliant Activity again, this License will permanently terminate as of the date of your earlier Non-Compliant Activity.
 
-Este repositorio se publica exclusivamente con fines educativos, como material
-de apoyo del curso "Cyber Threat Intelligence Operations" de Oneiros Academy.
-No se comercializa, no se ofrece como producto ni como servicio, y no sustituye
-la consulta del handbook oficial.
+10. Provision of Source Code.
 
-Si Intel 471, Inc. considera que algún contenido de este repositorio excede lo
-permitido por la licencia CC BY-NC-ND 4.0, se retirará o modificará a solicitud.
-Contacto: a través de los issues del repositorio.
+You must provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work or Derivative Work that You distribute. You are not required to provide a machine-readable copy of the Source Code if you provide a written offer, valid for at least three years, to give anyone a copy of the Source Code of the Original Work at no charge, other than the cost of physically performing source distribution.
+
+11. Jurisdiction, Venue and Governing Law.
+
+Any action or suit relating to this License may be brought only in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any use of the Original Work outside the scope of this License or after its termination shall be subject to normal requirements for permission from the copyright holder.
+
+12. Attorneys' Fees.
+
+In any action to enforce the terms of this License, the prevailing party shall be entitled to recover its costs and expenses of litigation, including reasonable attorneys' fees, subject to applicable law.
+
+13. Miscellaneous.
+
+This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not be used to construe this License against the Licensor.
+
+14. Definition of "You" in This License.
+
+"You" throughout this License, whether in upper or lower case, refers to an individual or a legal entity exercising rights under, and complying with all the terms of, this License. For legal entities, "You" includes any entity which controls, is controlled by, or is under common control with you. For purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+END OF ACADEMIC FREE LICENSE
