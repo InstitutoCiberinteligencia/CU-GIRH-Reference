@@ -1,12 +1,6 @@
 CU-GIRH Reference — Oneiros Academy
 Copyright (c) 2026 Instituto Ciberinteligencia / Oneiros Academy
 
-Licensed under the Academic Free License version 3.0
-Academic Free License ("AFL") v. 3.0
-
-This Academic Free License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
-
-[ES]
 Este repositorio combina material de dos titulares distintos, con licencias
 distintas. Lea ambas secciones antes de reutilizar cualquier parte.
 
@@ -55,9 +49,16 @@ pertenecen a sus respectivos titulares.
 
 Las notas de uso en Dirección de Inteligencia, la guía de conversión de GIR a
 PIR y EEI, los textos explicativos en español y la organización editorial de
-este repositorio son obra de Oneiros Academy / Instituto Ciberinteligencia, y
-se distribuyen bajo licencia Creative Commons
-Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+este repositorio son obra de Oneiros Academy / Instituto Ciberinteligencia.
+
+Este material se distribuye bajo licencia Creative Commons
+Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0): puedes compartirlo y
+adaptarlo dando crédito, pero no usarlo con fines comerciales. Consulta el
+archivo `LICENSE` para más detalles.
+
+Esto aplica ÚNICAMENTE al material propio descrito en esta sección. Los
+códigos, títulos y estructura de la taxonomía CU-GIRH se rigen por la
+licencia CC BY-NC-ND 4.0 de Intel 471 detallada en la sección 1.
 
 Usted es libre de:
 
