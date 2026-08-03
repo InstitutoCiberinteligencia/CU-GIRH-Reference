@@ -1,24 +1,90 @@
-This is free and unencumbered software released into the public domain.
+CU-GIRH Reference — Oneiros Academy
+Copyright (c) 2026 Instituto Ciberinteligencia / Oneiros Academy
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Este repositorio combina material de dos titulares distintos, con licencias
+distintas. Lea ambas secciones antes de reutilizar cualquier parte.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+================================================================
+1. MATERIAL DE INTEL 471 (taxonomía CU-GIRH)
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+La taxonomía Cyber Underground General Intelligence Requirements (CU-GIRH),
+sus códigos, títulos, definiciones y Elementos Esenciales de Información (EEIs)
+son obra de:
 
-For more information, please refer to <https://unlicense.org>
+  Intel 471, Inc.
+  Cyber Underground General Intelligence Requirements Handbook (CU-GIRH), v7.0
+  https://www.intel471.com/cyber-underground-handbook
+
+Dicha obra se publica bajo licencia Creative Commons
+Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0):
+
+  https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+ALCANCE DE LA CLÁUSULA "SIN DERIVADAS" (ND)
+
+La licencia CC BY-NC-ND permite copiar y redistribuir la obra sin modificar,
+con atribución y sin fines comerciales, pero NO permite distribuir material
+derivado: versiones modificadas, traducidas, reordenadas o reestructuradas.
+
+Por esa razón, este repositorio:
+
+  • NO reproduce las definiciones ni los Elementos Esenciales de Información
+    (EEIs) del handbook. Se citan por número de página.
+  • NO traduce ni reformula el contenido autoral del handbook.
+  • NO redistribuye el PDF. Enlaza a la fuente oficial de descarga.
+  • Incluye únicamente un índice de códigos y títulos, con finalidad de
+    navegación, referencia e interoperabilidad de etiquetado.
+
+Quien necesite el contenido completo del CU-GIRH debe obtenerlo directamente
+de Intel 471 en el enlace indicado arriba.
+
+Este repositorio no está afiliado a Intel 471, Inc., ni patrocinado ni
+respaldado por dicha empresa. Las marcas y nombres comerciales mencionados
+pertenecen a sus respectivos titulares.
+
+================================================================
+2. MATERIAL PROPIO (Oneiros Academy)
+================================================================
+
+Las notas de uso en Dirección de Inteligencia, la guía de conversión de GIR a
+PIR y EEI, los textos explicativos en español y la organización editorial de
+este repositorio son obra de Oneiros Academy / Instituto Ciberinteligencia, y
+se distribuyen bajo licencia Creative Commons
+Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+Usted es libre de:
+
+  • Compartir — copiar y redistribuir el material en cualquier medio o formato.
+  • Adaptar — remezclar, transformar y construir a partir del material.
+
+Bajo los siguientes términos:
+
+  • Atribución (BY) — Debe dar crédito de manera adecuada, indicando a
+    Oneiros Academy / Instituto Ciberinteligencia como autores, brindar un
+    enlace a la licencia e indicar si se han realizado cambios.
+
+  • NoComercial (NC) — No puede utilizar el material con fines comerciales.
+
+  • Sin restricciones adicionales — No puede aplicar términos legales ni
+    medidas tecnológicas que restrinjan legalmente a otros hacer cualquier
+    uso permitido por la licencia.
+
+Texto legal completo:
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode.es
+
+Resumen legible para personas:
+  https://creativecommons.org/licenses/by-nc/4.0/deed.es
+
+================================================================
+3. FINALIDAD
+================================================================
+
+Este repositorio se publica exclusivamente con fines educativos, como material
+de apoyo del curso "Cyber Threat Intelligence Operations" de Oneiros Academy.
+No se comercializa, no se ofrece como producto ni como servicio, y no sustituye
+la consulta del handbook oficial.
+
+Si Intel 471, Inc. considera que algún contenido de este repositorio excede lo
+permitido por la licencia CC BY-NC-ND 4.0, se retirará o modificará a solicitud.
+Contacto: a través de los issues del repositorio.
